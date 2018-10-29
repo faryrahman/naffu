@@ -32,7 +32,7 @@ public class GuessingGame {
 			if(rand< yourGuess) {
 				if(i==4) {
 					System.out.println();
-					System.out.println("Game over " + name + ", you lose.");
+					System.out.println("Game over...relax " + name + ", you lose.");
 					break;
 				}
 					
